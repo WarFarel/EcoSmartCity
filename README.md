@@ -11,4 +11,7 @@ StudentID - 22001027
 # It will have a status which will either indicate that it is active or inactive when the source of this will be turned off,  this will help to defuse any confusion, another aspect will be the effectiveness of the energy being convered from the inputs to the outputs.
 # After that the demand which will be able to be compared with the current production levels will be available. The algorith will also help to optimise the energy that will be distribiuted in order to meet the demand,efficient and availability.
 # After all of this is done there will be statistics available to have things such as Total energy produced, total energy consumption and remaining energy surplus.
+![image](https://github.com/user-attachments/assets/b7bf4c2b-39ed-41b0-895a-1c671d24fe8f)
+![image](https://github.com/user-attachments/assets/6b5bbd99-cd30-47b6-aeb6-62767b72d715)
+
 
