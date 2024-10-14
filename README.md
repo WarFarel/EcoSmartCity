@@ -5,7 +5,7 @@ StudentID - 22001027
 # The specifics are to mkae a module for the simulation that manages and optimises the city's renawable energy energy distribution system. I made this as much user-friendlyy as well as efficient as I could have from my abilities.
 
 ----------
-Algorithm
+# Algorithm
 ----------
 # The algorithm will have different types of the energy sources, those will be the hydro energy production, solar power and wind as well as geothermal. They will have different maximum energy that they can produce. This will be in kW as this is more widely used scale.
 # It will have a status which will either indicate that it is active or inactive when the source of this will be turned off,  this will help to defuse any confusion, another aspect will be the effectiveness of the energy being convered from the inputs to the outputs.
