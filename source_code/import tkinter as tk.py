@@ -93,6 +93,12 @@ class energy_distribution_program:
         self.deactivate_button.pack()
 
 
-        self.activate_button = tk.Button(root, text = "activate Source",
-                                     command = self.activate_source)
+        self.activate_button = tk.Button(root, text
+         = "activate Source",command = self.activate_source)
         self.activate_button.pack()
+
+        self.demand_label = tk.Lable(root, text = "Current Demand")
+        self.demand_label.pack()
+        self.demand_entry = tk.Entry(root)
+        self.demand_entry.pack
+        #This are demand input and buttons for optimazation
