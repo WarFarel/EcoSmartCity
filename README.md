@@ -22,17 +22,19 @@
 # Coding#1
 ![image](https://github.com/user-attachments/assets/f85926f8-647d-4522-be64-93cc17f994b0)
 In this image I have started the code by making the basic adding and removing of the sources of the energy.
-# Error 1
+# Spelling Mistake
 ![image](https://github.com/user-attachments/assets/46ddb50d-feb6-44ad-9983-6b564ed88a9c)
 This shows how there was a missspeling done in the deactivation of energy source. I have sinced fixed that by looking back over my code as an error was being displayed.
-# Error 2
+# Error 1
 ![Error #1](https://github.com/user-attachments/assets/e5757187-c94c-4352-bd2b-022256a87e05)
 This error came up after trying to launch the final version, this was a simple mistake of miss-spelling the word 'source_type"
 ![Error#1 Fix](https://github.com/user-attachments/assets/90d15838-dbc2-49f1-9749-8dbd2d09bea8)
-# Error 3
+# Error 2
 Second error that I have encountered was another simple spelling mistake which I have fixed.
 ![Error#2](https://github.com/user-attachments/assets/16193c86-161c-4964-b79f-7e596a6b12f1)
 ![Error#2 Fix](https://github.com/user-attachments/assets/e4bd802b-8042-47de-83a8-592ba2ee57db)
 
-
+# Error 3
 After testing the UI I concluded that I have coded one too many labels to do with the demand, as a result I had to enter demand twice, I fixed it by deleting one.
+![Error#3](https://github.com/user-attachments/assets/c78cdabe-9b3f-4338-9db8-2e46c6fa2f26)
+![Error#3 Fix](https://github.com/user-attachments/assets/133affa8-01a9-4725-9e77-3ec5012b634e)
