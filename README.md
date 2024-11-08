@@ -15,7 +15,7 @@
  After all of this is done there will be statistics available to have things such as Total energy produced, total energy consumption and remaining energy surplus.
 
 
-![Diagram](https://github.com/user-attachments/assets/f6cc6a54-ed1b-4ca1-adbf-1c6beea50263)
+![DIAGRAM FOR ALGORITHM](https://github.com/user-attachments/assets/a1616771-c73c-40fe-a3e5-a52df6b14502)
 
 
 # Use of IDE and debugging
