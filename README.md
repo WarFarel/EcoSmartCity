@@ -42,7 +42,7 @@ After testing the UI I concluded that I have coded one too many labels to do wit
 
 
 
-Learning Outcomes.
+# Learning Outcomes.
 Having the procedural programming paradigms that I have included means that the focus on the functions and the procedures is much more significant as well as it helps to execute the tasks in a sequence,
 it helps to make the approach top-down which means that the code is in a structure around a set of instructions, this is usually managed by global procedures, whereas the object oriented programming 
 that I have used has classes which have encapsulation for both the data as well as bahaviours. It focuses on encapuslation, inheritance and polymorphism which is effective at making the code more reusabble 
