@@ -27,5 +27,8 @@ This shows how there was a missspeling done in the deactivation of energy source
 ![Error #1](https://github.com/user-attachments/assets/e5757187-c94c-4352-bd2b-022256a87e05)
 This error came up after trying to launch the final version, this was a simple mistake of miss-spelling the word 'source_type"
 ![Error#1 Fix](https://github.com/user-attachments/assets/90d15838-dbc2-49f1-9749-8dbd2d09bea8)
+Second error that I have encountered was another simple spelling mistake which I have fixed.
+![Error#2](https://github.com/user-attachments/assets/16193c86-161c-4964-b79f-7e596a6b12f1)
+![Error#2 Fix](https://github.com/user-attachments/assets/e4bd802b-8042-47de-83a8-592ba2ee57db)
 
 
