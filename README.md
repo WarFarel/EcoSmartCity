@@ -71,3 +71,19 @@ The coding standards I followed while developing this was the PEP-8 standard in 
 
 
 Overall I feel like this project was sucessful as it servers its purpose and is working correctly, this being said i believe further developement could be an option as this is only a basic version with no advanced features.
+
+
+
+
+# FILE LIST
+Alorightm StepbyStep.odt
+DIAGRAM FOR ALGORITHM.png
+Error #1.png
+Error#1 Fix.png
+Error#2 Fix.png
+Error#2.png
+Error#3 Fix.png
+Error#3.png
+TEST 1- bad input.png
+TEST 3- Characters Input.png
+Test 2.- Normal Input.png
