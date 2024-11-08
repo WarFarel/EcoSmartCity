@@ -44,7 +44,9 @@ After testing the UI I concluded that I have coded one too many labels to do wit
 
 # Testing
 I have tested the input box with various input to see whether the program will handle these exceptions correctly and as a result it did handle them correctly.
+
 ![Test 2](https://github.com/user-attachments/assets/93a9224e-00c8-4c2e-9cbd-21b0276c85ac)
+
 ![TEST 1](https://github.com/user-attachments/assets/43dd6eb4-4d18-4705-8833-c0247ba2bf35)
 ![TEST 3](https://github.com/user-attachments/assets/ba08b3d0-bf3a-48af-a9fc-9fe69c2c81da)
 
