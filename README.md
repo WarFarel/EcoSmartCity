@@ -38,3 +38,13 @@ Second error that I have encountered was another simple spelling mistake which I
 After testing the UI I concluded that I have coded one too many labels to do with the demand, as a result I had to enter demand twice, I fixed it by deleting one.
 ![Error#3](https://github.com/user-attachments/assets/c78cdabe-9b3f-4338-9db8-2e46c6fa2f26)
 ![Error#3 Fix](https://github.com/user-attachments/assets/133affa8-01a9-4725-9e77-3ec5012b634e)
+
+
+
+
+Learning Outcomes.
+Having the procedural programming paradigms that I have included means that the focus on the functions and the procedures is much more significant as well as it helps to execute the tasks in a sequence,
+it helps to make the approach top-down which means that the code is in a structure around a set of instructions, this is usually managed by global procedures, whereas the object oriented programming 
+that I have used has classes which have encapsulation for both the data as well as bahaviours. It focuses on encapuslation, inheritance and polymorphism which is effective at making the code more reusabble 
+especially helpful in large codes. The event driven paradigms I have included focus on events as the name suggests this is things such as the buttons I included when pressed they make a decision
+or make something appear on the screen, this helps as I made the program much more interactive however this can be difficult as it might be problematic to debug the issues if some arrise.
