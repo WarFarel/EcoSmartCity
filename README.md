@@ -39,15 +39,14 @@ Second error that I have encountered was another simple spelling mistake which I
 ![Error#3](https://github.com/user-attachments/assets/c78cdabe-9b3f-4338-9db8-2e46c6fa2f26)
 ![Error#3 Fix](https://github.com/user-attachments/assets/133affa8-01a9-4725-9e77-3ec5012b634e)
 
-# Testing
 After testing the UI I concluded that I have coded one too many labels to do with the demand, as a result I had to enter demand twice, I fixed it by deleting one.
-![Test 2](https://github.com/user-attachments/assets/93a9224e-00c8-4c2e-9cbd-21b0276c85ac)
-![TEST 1](https://github.com/user-attachments/assets/43dd6eb4-4d18-4705-8833-c0247ba2bf35)
-![TEST 3](https://github.com/user-attachments/assets/ba08b3d0-bf3a-48af-a9fc-9fe69c2c81da)
+
 
 # Testing
 I have tested the input box with various input to see whether the program will handle these exceptions correctly and as a result it did handle them correctly.
-
+![Test 2](https://github.com/user-attachments/assets/93a9224e-00c8-4c2e-9cbd-21b0276c85ac)
+![TEST 1](https://github.com/user-attachments/assets/43dd6eb4-4d18-4705-8833-c0247ba2bf35)
+![TEST 3](https://github.com/user-attachments/assets/ba08b3d0-bf3a-48af-a9fc-9fe69c2c81da)
 
 
 
