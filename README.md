@@ -51,6 +51,9 @@ I have tested the input box with various input to see whether the program will h
 ![TEST 3](https://github.com/user-attachments/assets/ba08b3d0-bf3a-48af-a9fc-9fe69c2c81da)
 
 
+# Code Structure
+The code I have written has three claseses, energy_source which manages the individual energy sources, distribution_grid which handles multiple of the sources and the production and the energy_distribution_program which
+has the tkinter GUI which the user can interact with, the structure is object-oriented with parts of procedural programing as well as even driven due to the butttons which make this code easy to manage overall.
 
 # Learning Outcomes.
 Having the procedural programming paradigms that I have included means that the focus on the functions and the procedures is much more significant as well as it helps to execute the tasks in a sequence,
