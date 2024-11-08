@@ -1,5 +1,5 @@
 # EcoSmartCity
-**Date:** 08/11/2024
+# Date: 08/11/2024
 # StudentID - 22001027
 ---
 # This project will be about making a simulator to model and optimise different aspects of the futuristic, environmentally-friendly city. It will help the city planners and policymakers to make informed decisions about the different urban sustainability developement.
