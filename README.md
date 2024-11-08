@@ -3,8 +3,9 @@
 # StudentID - 22001027
 ---
 # This project will be about making a simulator to model and optimise different aspects of the futuristic, environmentally-friendly city. It will help the city planners and policymakers to make informed decisions about the different urban sustainability developement.
-# The specifics are to make a module for the simulation that manages and optimises the city's renawable energy energy distribution system. I made this as much user-friendlyy as well as efficient as I could have from my abilities.
+# The specifics are to make a module for the simulation that manages and optimises the city's renawable energy energy distribution system. I made this as much user-friendly as well as efficient as I could have from my abilities.
 # This projects code and the program is entirely done in Python. Version Python 3.9 64bit and should run with newer versions.
+
 ----------
  Algorithm
 ----------
@@ -21,4 +22,10 @@
 ![image](https://github.com/user-attachments/assets/f85926f8-647d-4522-be64-93cc17f994b0)
 In this image I have started the code by making the basic adding and removing of the sources of the energy.
 ![image](https://github.com/user-attachments/assets/46ddb50d-feb6-44ad-9983-6b564ed88a9c)
-This shows how there was a missspeling done in the deactivation of energy source.
+This shows how there was a missspeling done in the deactivation of energy source. I have sinced fixed that by looking back over my code as an error was being displayed.
+
+![Error #1](https://github.com/user-attachments/assets/e5757187-c94c-4352-bd2b-022256a87e05)
+This error came up after trying to launch the final version, this was a simple mistake of miss-spelling the word 'source_type"
+![Error#1 Fix](https://github.com/user-attachments/assets/90d15838-dbc2-49f1-9749-8dbd2d09bea8)
+
+
