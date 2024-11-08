@@ -48,3 +48,8 @@ it helps to make the approach top-down which means that the code is in a structu
 that I have used has classes which have encapsulation for both the data as well as bahaviours. It focuses on encapuslation, inheritance and polymorphism which is effective at making the code more reusabble 
 especially helpful in large codes. The event driven paradigms I have included focus on events as the name suggests this is things such as the buttons I included when pressed they make a decision
 or make something appear on the screen, this helps as I made the program much more interactive however this can be difficult as it might be problematic to debug the issues if some arrise.
+
+
+The coding standards I followed while developing this was the PEP-8 standard in order to maintain the essential clarity as well as to stay consistent and not make the code confusing, in my program
+ I used consistent naming convention as well as indentations in order for the code to be easy to read, however it can still be imrpoved by making more detailed comments that would explain the program as whole
+ and implement better error handling as this could improve the user expierience.  I chose these standards as they are the most widely known and the naming conventions were most convenient for me.
