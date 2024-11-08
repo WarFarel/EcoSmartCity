@@ -18,7 +18,7 @@
 ![Diagram](https://github.com/user-attachments/assets/f6cc6a54-ed1b-4ca1-adbf-1c6beea50263)
 
 
-#Use of IDE and debugging
+# Use of IDE and debugging
 ![image](https://github.com/user-attachments/assets/f85926f8-647d-4522-be64-93cc17f994b0)
 In this image I have started the code by making the basic adding and removing of the sources of the energy.
 ![image](https://github.com/user-attachments/assets/46ddb50d-feb6-44ad-9983-6b564ed88a9c)
